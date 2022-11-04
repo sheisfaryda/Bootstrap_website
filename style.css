@@ -1,0 +1,11 @@
+.deeds{
+background-image: url(./src/rodrigo-soares-8BFWBUkSqQo-unsplash.jpg);
+width: 100%;
+height: 100vh;
+}
+.welcome {
+    padding-top: 150px !important;
+}  
+.img-fluid {
+    padding-bottom: 1.5rem;
+}
